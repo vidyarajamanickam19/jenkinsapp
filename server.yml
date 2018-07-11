@@ -1,0 +1,6 @@
+---
+- hosts: myVm
+  sudo: yes
+  roles:
+
+  - ansible-role-php
