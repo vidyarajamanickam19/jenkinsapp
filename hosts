@@ -1,3 +1,4 @@
 [myVm]
-168.62.185.71 ansible_ssh_user=dxccnaadmin
+
+myvm100.eastus.cloudapp.azure.com ansible_ssh_user=dxccnaadmin
 
