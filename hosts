@@ -1,4 +1,4 @@
 [myVm]
 
-myvm100.eastus.cloudapp.azure.com ansible_ssh_user=dxccnaadmin
+terraformvm.eastus.cloudapp.azure.com ansible_ssh_user=dxccnaadmin
 
